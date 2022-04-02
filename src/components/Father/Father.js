@@ -8,7 +8,7 @@ const Father = ({houseAce}) => {
             <div>
                   <h2>Father</h2>
                   <p>House: {houseAce}</p>
-                  <Myself  houseAce=  {houseAce} ></Myself>
+                  <Myself  houseAce=  {houseAce}  ></Myself>
                   <Brother houseAce=  {houseAce} ></Brother>
                   <Sister  houseAce=  {houseAce}></Sister>
             </div>
